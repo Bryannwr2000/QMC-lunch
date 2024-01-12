@@ -7,6 +7,7 @@ var opposite = [
   "鸭饭",
   "明记隔壁",
   "Uncle Soon 隔壁隔壁",
+  "Thong Kee",
 ];
 var all = [...ss15, ...opposite];
 
