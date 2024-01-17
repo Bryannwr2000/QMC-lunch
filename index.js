@@ -1,4 +1,12 @@
-var ss15 = ["Brew House", "一楼", "Jibril", "Oregi", "Boran", "Gold Chili"];
+var ss15 = [
+  "Brew House",
+  "一楼",
+  "Jibril",
+  "Oregi",
+  "Boran",
+  "Gold Chili",
+  "Uncle Seng",
+];
 var opposite = [
   "Uncle Soon",
   "明记",
