@@ -16,6 +16,8 @@ var opposite = [
   "明记隔壁",
   "Uncle Soon 隔壁隔壁",
   "Thong Kee",
+  "Zap fan",
+  "Alvin",
 ];
 var all = [...ss15, ...opposite];
 
